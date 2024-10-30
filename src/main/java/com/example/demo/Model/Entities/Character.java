@@ -20,6 +20,8 @@ public class Character {
     private String type;
     private String gender;
     private String image;
+    private Origin origin;
+    private Location location;
     private List<String> episode;
     private String url;
     private String created;
